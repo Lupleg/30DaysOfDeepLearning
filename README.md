@@ -4,7 +4,7 @@
 
 ### Week 1: Basics of Python and Machine Learning
 
-**Day 1:** Introduction to Python
+**Day 1:** Introduction to Python programming 
 
 - Install Python and Jupyter Notebook
 - Learn basic Python syntax (variables, data types, loops, conditionals)
